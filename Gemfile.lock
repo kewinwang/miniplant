@@ -94,6 +94,6 @@ DEPENDENCIES
   cancan
   datamappify
   devise
-  mysql2 (= 0.2.11)
+  mysql2 (~> 0.2.11)
   rails (= 3.0.9)
   sho-mongrel

@@ -10,7 +10,7 @@ gem 'rails', '3.0.9'
 ##### Database
 # Database connection driver and version
 # gem 'sqlite3-ruby','1.2.5',:require => 'sqlite3'
-gem 'mysql2','0.2.11'
+gem 'mysql2','~>0.2.11'
 gem 'datamappify'
 # gem 'by_star'
 #gem 'slim_crooge'
